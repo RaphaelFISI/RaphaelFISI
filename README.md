@@ -20,6 +20,8 @@ Ich interessiere mich besonders für Netzwerktechnik, IT-Infrastruktur und Syste
 
 ---
 
-### Meine Projekte
+## 🚀 Aktuelle Projekte
 
-Auf diesem Profil dokumentiere ich eigene Projekte, praktische Experimente und meinen Lernfortschritt rund um die IT.
+- 🔭 Nachbildung und Dokumentation meines Heimnetzwerks mit Cisco Packet Tracer.
+- 🌱 Einrichtung von Pi-hole auf einem Raspberry Pi, um Werbung und Tracker in meinem Heimnetzwerk zu blockieren.
+
