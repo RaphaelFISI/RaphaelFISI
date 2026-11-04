@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hallo 
 
-<!--
-**RaphaelFISI/RaphaelFISI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin Raphael und absolviere derzeit eine Umschulung zum Fachinformatiker für Systemintegration.
 
-Here are some ideas to get you started:
+## Aktuell beschäftige ich mich mit
+- Netzwerktechnik und IT-Infrastruktur
+- Systemadministration
+- Python und SQL
+- Eigenen IT-Projekten
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologien & Tools
+- Cisco Packet Tracer
+- Python
+- SQL
+- Git & GitHub
+
+## Über dieses Profil
+Hier dokumentiere ich eigene Projekte, praktische Erfahrungen und meinen Lernfortschritt rund um die IT.
