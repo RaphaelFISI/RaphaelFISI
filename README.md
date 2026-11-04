@@ -1,18 +1,11 @@
-# Hallo 
+# Willkommen auf meinem GitHub-Profil!
 
-Ich bin Raphael und absolviere derzeit eine Umschulung zum Fachinformatiker für Systemintegration.
+Ich bin Raphael und absolviere derzeit eine Umschulung zum Fachinformatiker für Systemintegration in Deutschland.
 
-## Aktuell beschäftige ich mich mit
-- Netzwerktechnik und IT-Infrastruktur
-- Systemadministration
-- Python und SQL
-- Eigenen IT-Projekten
+Ich interessiere mich besonders für Netzwerktechnik, IT-Infrastruktur und Systemadministration.
 
-## Technologien & Tools
-- Cisco Packet Tracer
-- Python
-- SQL
-- Git & GitHub
+Aktuell erweitere ich meine Kenntnisse in verschiedenen Bereichen der IT und setze das Gelernte in eigenen Projekten praktisch um.
 
-## Über dieses Profil
-Hier dokumentiere ich eigene Projekte, praktische Erfahrungen und meinen Lernfortschritt rund um die IT.
+Zu den Technologien und Tools, mit denen ich mich beschäftige, gehören Cisco Packet Tracer, Python, SQL sowie Git und GitHub.
+
+Auf diesem Profil findest du meine eigenen Projekte, praktische Experimente und Einblicke in meinen Lernfortschritt.
